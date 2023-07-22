@@ -3,4 +3,4 @@ Distributes textures to female npcs
 
 
 Changelog:
-Fixed an issue where the default specular head read as normal.
+Added the extra options to the config

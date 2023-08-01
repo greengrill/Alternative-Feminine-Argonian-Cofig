@@ -1,4 +1,4 @@
-# Alternative-Feminine-Argonian-Cofig
+# Argonian and Khajiit configs
 Distributes textures to female npcs
 
 

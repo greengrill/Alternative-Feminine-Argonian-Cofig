@@ -16,3 +16,5 @@ riverbord--made the Riverborn Argonian textures for male and female.
 KirillianAmurawr's--the creator of the big stupid lizards texture file.
 
 Flewn--the creator of Flawn's Argonians--Lite, Redux and full.
+
+OBLbeginner--the creator of Better Khajiit textures.

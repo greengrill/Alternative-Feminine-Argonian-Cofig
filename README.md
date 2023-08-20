@@ -7,7 +7,7 @@ Added the extra options to the config
 
 Corrected previous mistakes in the config
 
-Credits go to Pirana91 for making SynthEBD and the original texture artists:
+Credits go to Pirana91 for making SynthEBD, pamonha for the BHUNP record template and the original texture artists:
 
 MONSTERaider--made the original Feminine and Masculine beast race mods and the alternatives used in these configs.
 
